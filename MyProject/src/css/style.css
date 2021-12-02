@@ -1,3 +1,70 @@
-{
-	font-size: 30px;
+body{
+	font-famile: Arial, sans-serif;
+}
+nav{
+	width: 100%;
+	height: 30px;
+	background: #344051;
+}
+.logo{
+	color: #fff;
+	font-size: 15px;
+	line-height: 30px;
+	padding-left: 200px;
+	float: left;
+}
+.menu{
+	color: #fff;
+	font-size: 11px;
+	line-height: 30px;
+	padding-left: 250px;
+	float: left;
+}
+.menu li{
+	float: left;
+	margin-right: 20px;
+	text-transform: uppercase;
+}
+.main{
+	width: 100%;
+	height: 100%;
+	background: url(../img/boy.png) 90% 100%/auto 85%  no-repeat , url(../img/bgd.png) center/cover no-repeat;
+}
+.tittle_container{
+	float: left;
+	margin: 200px 0px 0px 200px
+}
+.tittle_container h1{
+	font-size: 50px;
+	font-weight: bold;
+	color: #2c384a;
+	text-align: center;
+}
+.tittle_container h4{
+	margin-top: 20px;
+	font-size: 16px;
+	color: #79818d;
+	text-align: center;
+}
+.I{
+	height: 30px;
+	border: 2px solid #79818d;
+	color: #79818d;
+	background: none;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 13px;
+	padding: 0px 16px;
+	margin: 30px 15px 0px 105px;
+}
+.W{
+	height: 30px;
+	border: 2px solid #79818d;
+	color: #79818d;
+	background: none;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 13px;
+	padding: 0px 16px;
+	margin: 30px 15px 0px 0px;
 }
