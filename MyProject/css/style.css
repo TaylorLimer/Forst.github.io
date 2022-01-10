@@ -1,0 +1,260 @@
+body{
+	font-famile: Arial, sans-serif;
+}
+nav{
+	width: 100%;
+	height: 30px;
+	background: #344051;
+}
+.logo{
+	color: #fff;
+	font-size: 15px;
+	line-height: 30px;
+	padding-left: 200px;
+	float: left;
+}
+.menu{
+	color: #fff;
+	font-size: 11px;
+	line-height: 30px;
+	padding-left: 650px;
+	float: left;
+}
+.menu li{
+	float: left;
+	margin-right: 20px;
+	text-transform: uppercase;
+}
+.main{
+	width: 100%;
+	height: 100%;
+	background: url(../img/boy.png) 90% 100%/auto 85%  no-repeat , url(../img/bgd.png) center/cover no-repeat;
+}
+.tittle_container{
+	float: left;
+	margin: 200px 0px 0px 200px
+}
+.tittle_container h1{
+	font-size: 50px;
+	font-weight: bold;
+	color: #2c384a;
+	text-align: center;
+}
+.tittle_container h4{
+	margin-top: 20px;
+	font-size: 16px;
+	color: #79818d;
+	text-align: center;
+}
+.I{
+	height: 30px;
+	border: 2px solid #79818d;
+	color: #79818d;
+	background: none;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 13px;
+	padding: 0px 16px;
+	margin: 30px 15px 0px 105px;
+}
+.W{
+	height: 30px;
+	border: 2px solid #79818d;
+	color: #79818d;
+	background: none;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 13px;
+	padding: 0px 16px;
+	margin: 30px 15px 0px 0px;
+}
+
+.line{
+    border-bottom: 4px solid #d97c00;
+    width: 70px;
+    margin: 20px 0px 60px 920px;
+} 
+.pic{
+	width: 10%;
+	height: 20%;
+	margin-left: 858px;
+	background: url(../img/%D0%BA%D1%80%D1%83%D0%B3.png) center/190px  no-repeat;
+}
+.lorem{
+	margin-top: 20px;
+	font-size: 16px;
+	color: #3f495a;
+	text-align: center;
+}
+.inst{
+	border: 2px solid #79818d;
+	font-size: 16px;
+	color: #3f495a;
+	padding: 15px 12px 12px 35px;
+	margin: 39px 870px;
+	border-radius: 5px;
+	background: url(../img/instal.png) left/20px 15px no-repeat
+}
+.can{
+	width: 100%;
+	height: 50%;
+	background: url(../img/can.png) no-repeat
+}
+h2{
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	color: #2c384a;
+	margin: 10px 0px 0px 0px;
+    padding: 108px 0px 0px 0px;
+}
+.umeu{
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: #d97c00;
+	word-spacing: 200px;
+    padding: 108px 0px 0px  100px;
+	background:  url(../img/ноут.png) 494px/52px 35px no-repeat , url(../img/знак.png) 794px/52px 35px no-repeat, url(../img/ракета.png) 1094px/52px 35px no-repeat, url(../img/граммофон.png) 1494px/52px 35px no-repeat;
+}
+.no{
+	font-size: 15px;
+	text-align: center;
+	font-weight: bold;
+	color: #344051;
+	word-spacing: 290px;
+	margin: 30px 0px 0px 110px;
+}
+.skrin{
+    width: 100%;
+	height: 70%;
+    background: url(../img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD.jpg) no-repeat;
+    margin: 47px 0px 0px 0px
+}
+.client{
+    font-size: 20px;
+	font-weight: bold;
+	color: #384354;
+	word-spacing: 215px;
+    margin: 10px 0px 20px 388px;
+}
+.comp{
+    font-size: 15px;
+	color: #3f495a;
+    margin: 14px 0px 0px 388px;
+}
+.lor{
+    font-size: 20px;
+	color: #3f495a;
+    margin: -16px 0px 0px 694px;
+}
+.knop{
+    font-size: 30;
+    color: #fff;
+    font-weight: bold;
+    margin: 25px 0px 0px 388px;
+    padding: 15px 43px 15px 43px;
+    background: url(../img/%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D0%BA%D0%B0.png)
+         
+}
+h3{
+    font-size: 27px;
+    font-weight: bold;
+	color: #2c384a;
+	margin: 10px 0px 0px 450px;
+}
+select{
+    font-size: 27px;
+    font-weight: bold;
+	color: #2c384a;
+	margin: 10px 0px 45px 450px;
+}
+.lin{
+    border-bottom: 2px solid #d1d1d1;
+    width: 891px;
+    margin: 0px 0px 0px 450px;
+}
+.itog{
+    font-size: 22px;
+    font-weight: bold;
+	color: #2c384a;
+	margin: 10px 0px 45px 450px;
+}
+.stata{
+    width: 100%;
+	height: 50%;
+	background: url(../img/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B0.jpg);
+    margin: 159px 0px 0px 0px;
+}
+.zero{
+    font-size: 40px;
+	font-weight: bold;
+	color: #323e4f;
+	word-spacing: 270px;
+    padding: 108px 0px 0px  505px;
+	background: url(../img/%D1%81%D0%BC%D0%B0%D0%B9%D0%BB.png) 494px/49px 49px no-repeat, url(../img/скобки.png) 794px/45px 60px no-repeat, url(../img/галочка.png) 1094px/45px 50px no-repeat, url(../img/кубок.png) 1394px/47px 51px no-repeat;
+}
+.word{
+    font-size: 20px;
+	color: #323e4f;
+    font-weight: bold;
+	word-spacing: 160px;
+    padding: 0px 0px 0px  500px; 
+}
+.muzhyk{
+    width: 100%;
+    height: 40%;
+    background: url(../img/%D0%BC%D1%83%D0%B6%D0%B8%D0%BA.png) center no-repeat;
+}
+.fon{
+    width: 100%;
+    height: 170%;
+    background: url(../img/%D0%A4%D0%BE%D0%BD.jpg) no-repeat;
+    background-size: cover;
+    margin: 150px 0px 0px 0px;  
+    color: #fff;
+    text-align: center;
+}
+.cont{
+    font-size: 27px;
+	font-weight: bold;
+    padding: 108px 0px 0px 0px;
+}
+.infa{
+    font-size: 20px;
+	word-spacing: 107px;
+    padding: 90px 0px 55px  0px;
+	background: url(../img/%D0%B3%D0%B5%D0%BE.png) 654px/17px 25px no-repeat, url(../img/конверт.png) 894px/29px 25px no-repeat, url(../img/труба.png) 1180px/21px 25px no-repeat;
+}
+.mes{
+    font-size: 23px;
+    margin: -10px 0px 48px 0px;
+}
+.text_input{
+    margin: 0px 14px 14px 14px;
+}
+.sent{
+    height: 47px;
+    border: 2px solid #f9faff;
+    color: #f9faff;
+    background: none;
+    font-size: 17px;
+	font-weight: bold;	
+    border-radius: 5px;
+	padding: 17px 18px 15px 18px;
+	margin: 34px 0px 0px 0px;
+}
+.map{
+    width: 100%;
+    height: 72%;
+    background: url(../img/%D0%9A%D0%B0%D1%80%D1%82%D0%B0.jpg) no-repeat;
+}
+.C{
+    width: 100%;
+    height: 98px;
+    background: #344051;
+	font-size: 16px;
+	color: #fff;;
+	text-align: center; 
+    padding-top: 44px;
+}
